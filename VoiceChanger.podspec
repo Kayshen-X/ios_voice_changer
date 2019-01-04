@@ -1,6 +1,6 @@
  Pod::Spec.new do |s|
   s.name         = "VoiceChanger"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "Voice Changer With Six Type For IOS"
   s.description  = <<-DESC
   Voice Changer With Six Type For IOS"
