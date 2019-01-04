@@ -9,7 +9,7 @@
   s.license      = "MIT"
   s.author             = { "Kayshen-X" => "kayshen_xu@163.com" }
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/Kayshen-X/ios_voice_changer.git", :tag => "#{s.version}" }
   s.source_files = "Classes/**/*","FMOD/inc/**/*"
   s.public_header_files = "Classes/**/*.h"
   s.frameworks = "AVFoundation","AudioToolbox"
